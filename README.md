@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Al-Amin
 - 👀 I’m interested in Web Technologies, Machine Learning, Mobile Application Development
-
 - 📫 How to reach me s.alaminkhan96@gmail.com
 
 <!---
