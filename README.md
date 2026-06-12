@@ -373,7 +373,7 @@ Full-stack engineer leading end-to-end development for multiple client projects 
   </a>
 </p>
 
-![Top language](https://stats.pphat.top/languages?username=alaminkhan96)
+
 <br/>
 ---
 
