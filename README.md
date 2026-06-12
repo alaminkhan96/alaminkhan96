@@ -190,7 +190,7 @@ A comprehensive Next.js healthcare platform serving radiologists and patients ac
 
 <br/>
 
-A freelance-delivered event booking platform featuring a multi-step quoting engine, automated PDF proposal generation, and email dispatch. Engineered for conversion optimization and operational efficiency, saving the client significant manual administrative overhead.
+A freelance-delivered event booking platform featuring a multi-step quoting engine, automated PDF proposal generation, and email dispatch. Engineered for conversion optimization and operational efficiency.
 
 | Attribute | Detail |
 |-----------|--------|
@@ -214,7 +214,7 @@ A freelance-delivered event booking platform featuring a multi-step quoting engi
 
 <br/>
 
-A full-featured ISP management application serving 200+ cable operators with automated billing, customer management, and service tracking. Led end-to-end development across the complete software development lifecycle.
+A full-featured ISP management application serving 200+ cable operators with automated billing, customer management, and service tracking.
 
 | Attribute | Detail |
 |-----------|--------|
@@ -288,7 +288,7 @@ Built a comprehensive Next.js healthcare ecosystem serving radiologists, patient
 **Software Engineer (Full-Stack)** — Desktop IT
 `Jan 2023 – Nov 2023` · Dhaka, Bangladesh
 
-Full-stack engineer leading end-to-end development for multiple client projects across ISP management, NGO web presence, and legacy system modernization. Established team best practices and delivered across the complete SDLC.
+Full-stack engineer leading end-to-end development for multiple client projects across ISP management, NGO web presence, and legacy system modernization.
 
 - Led development of DishNet ISP management system serving 200+ cable operators
 - Refactored legacy CA Company codebase resolving 15+ broken features; 50% stability improvement
@@ -360,12 +360,12 @@ Full-stack engineer leading end-to-end development for multiple client projects 
 ## ◈ GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alaminKhan96&show_icons=true&theme=blue-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=06b6d4&icon_color=1e3a8a&text_color=c9d1d9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaminKhan96&layout=compact&langs_count=8&theme=blue-dark&hide_border=true&bg_color=0D1117&title_color=06b6d4&text_color=c9d1d9" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alaminKhan96&show_icons=true&theme=blue-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=06b6d4&icon_color=06b6d4&text_color=c9d1d9" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alaminKhan96&layout=compact&langs_count=8&theme=blue-dark&hide_border=true&bg_color=0D1117&title_color=06b6d4&text_color=c9d1d9" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=alaminKhan96&theme=blue-dark&hide_border=true&background=0D1117&ring=06b6d4&fire=1e3a8a&currStreakLabel=06b6d4" />
+  <img src="https://streak-stats.demolab.com?user=alaminKhan96&theme=blue-dark&hide_border=true&background=0D1117&ring=06b6d4&fire=06b6d4&currStreakLabel=06b6d4" />
 </p>
 
 ---
@@ -373,7 +373,7 @@ Full-stack engineer leading end-to-end development for multiple client projects 
 ## ◈ GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alaminKhan96&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=alaminKhan96&theme=nord&no-frame=true&no-bg=true&margin-w=6&column=7" />
 </p>
 
 ---
