@@ -373,7 +373,11 @@ Full-stack engineer leading end-to-end development for multiple client projects 
 ## ◈ GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=alaminKhan96&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4" />
+
+| 🏆 Commits | ⭐ Stars | 🎯 Issues | 🔀 Pull Requests | 👥 Followers | 📦 Repositories |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| ![](https://img.shields.io/badge/Commits-101-06b6d4?style=for-the-badge) | ![](https://img.shields.io/badge/Stars-0-1e3a8a?style=for-the-badge) | ![](https://img.shields.io/badge/Issues-0-0284c7?style=for-the-badge) | ![](https://img.shields.io/badge/PRs-1-06b6d4?style=for-the-badge) | ![](https://img.shields.io/badge/Followers-growing-1e3a8a?style=for-the-badge) | ![](https://img.shields.io/badge/Repos-active-0284c7?style=for-the-badge) |
+
 </p>
 
 ---
