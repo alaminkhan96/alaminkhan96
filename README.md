@@ -21,21 +21,21 @@
   <a href="https://your-portfolio.dev">
     <img src="https://img.shields.io/badge/Portfolio-1e3a8a?style=for-the-badge&logo=firefox-browser&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/al-amin-khan">
+  <a href="https://linkedin.com/in/alaminKhan96">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:i.alamink96@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/al-amin-khan">
+  <a href="https://github.com/alaminKhan96">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=al-amin-khan&label=Profile%20Views&color=1e3a8a&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/al-amin-khan?label=Followers&style=flat-square&color=06b6d4" />
-  <img src="https://img.shields.io/github/stars/al-amin-khan?label=Total%20Stars&style=flat-square&color=0284c7" />
+  <img src="https://komarev.com/ghpvc/?username=alaminKhan96&label=Profile%20Views&color=1e3a8a&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/alaminKhan96?label=Followers&style=flat-square&color=06b6d4" />
+  <img src="https://img.shields.io/github/stars/alaminKhan96?label=Total%20Stars&style=flat-square&color=0284c7" />
 </p>
 
 ---
@@ -341,16 +341,16 @@ Full-stack engineer leading end-to-end development for multiple client projects 
 ## ◈ Coding Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/al-amin-khan">
+  <a href="https://leetcode.com/alaminKhan96">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="https://www.geeksforgeeks.org/user/al-amin-khan">
+  <a href="https://www.geeksforgeeks.org/user/alaminKhan96">
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
-  <a href="https://www.hackerrank.com/al-amin-khan">
+  <a href="https://www.hackerrank.com/alaminKhan96">
     <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
   </a>
-  <a href="https://www.codechef.com/users/al-amin-khan">
+  <a href="https://www.codechef.com/users/alaminKhan96">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
 </p>
@@ -360,12 +360,12 @@ Full-stack engineer leading end-to-end development for multiple client projects 
 ## ◈ GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=al-amin-khan&show_icons=true&theme=blue-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=06b6d4&icon_color=1e3a8a&text_color=c9d1d9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=al-amin-khan&layout=compact&langs_count=8&theme=blue-dark&hide_border=true&bg_color=0D1117&title_color=06b6d4&text_color=c9d1d9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alaminKhan96&show_icons=true&theme=blue-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=06b6d4&icon_color=1e3a8a&text_color=c9d1d9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaminKhan96&layout=compact&langs_count=8&theme=blue-dark&hide_border=true&bg_color=0D1117&title_color=06b6d4&text_color=c9d1d9" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=al-amin-khan&theme=blue-dark&hide_border=true&background=0D1117&ring=06b6d4&fire=1e3a8a&currStreakLabel=06b6d4" />
+  <img src="https://streak-stats.demolab.com?user=alaminKhan96&theme=blue-dark&hide_border=true&background=0D1117&ring=06b6d4&fire=1e3a8a&currStreakLabel=06b6d4" />
 </p>
 
 ---
@@ -373,7 +373,7 @@ Full-stack engineer leading end-to-end development for multiple client projects 
 ## ◈ GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=al-amin-khan&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=alaminKhan96&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7" />
 </p>
 
 ---
@@ -381,7 +381,7 @@ Full-stack engineer leading end-to-end development for multiple client projects 
 ## ◈ Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=al-amin-khan&theme=github-compact&bg_color=0D1117&color=06b6d4&line=1e3a8a&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alaminKhan96&theme=github-compact&bg_color=0D1117&color=06b6d4&line=1e3a8a&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
@@ -389,7 +389,7 @@ Full-stack engineer leading end-to-end development for multiple client projects 
 ## ◈ Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/al-amin-khan/al-amin-khan/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/alaminKhan96/alaminKhan96/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -431,13 +431,13 @@ engineering_focus:
   </a>
 </p>
 <p align="center">
-  <a href="https://linkedin.com/in/al-amin-khan">
+  <a href="https://linkedin.com/in/alaminKhan96">
     <img src="https://img.shields.io/badge/LinkedIn-Al--Amin%20Khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/al-amin-khan">
-    <img src="https://img.shields.io/badge/GitHub-al--amin--khan-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/alaminKhan96">
+    <img src="https://img.shields.io/badge/GitHub-alaminKhan96-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 <p align="center">
