@@ -367,7 +367,14 @@ Full-stack engineer leading end-to-end development for multiple client projects 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=alaminKhan96&theme=blue-dark&hide_border=true&background=0D1117&ring=06b6d4&fire=06b6d4&currStreakLabel=06b6d4" />
 </p>
+<p align="center">
+  <a href="https://github.com/alaminkhan96">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alaminkhan96&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
 ![Top language](https://stats.pphat.top/languages?username=alaminkhan96)
+<br/>
 ---
 
 ## ◈ GitHub Trophies
