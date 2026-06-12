@@ -373,7 +373,7 @@ Full-stack engineer leading end-to-end development for multiple client projects 
 ## ◈ GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alaminKhan96&theme=nord&no-frame=true&no-bg=true&margin-w=6&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=alaminKhan96&theme=darkhub&no-frame=true&no-bg=false&margin-w=8&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
 ---
