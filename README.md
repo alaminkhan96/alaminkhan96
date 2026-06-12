@@ -367,7 +367,7 @@ Full-stack engineer leading end-to-end development for multiple client projects 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=alaminKhan96&theme=blue-dark&hide_border=true&background=0D1117&ring=06b6d4&fire=06b6d4&currStreakLabel=06b6d4" />
 </p>
-
+![Top language](https://stats.pphat.top/languages?username=alaminkhan96)
 ---
 
 ## ◈ GitHub Trophies
