@@ -1,25 +1,25 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=200&section=header&text=Al-Amin%20Khan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Full%20Stack%20Engineer%20%7C%20SaaS%20%7C%20Healthcare%20Tech%20%7C%20AI-Augmented%20Systems&descAlignY=58&descAlign=50&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e3a8a&height=200&section=header&text=Al-Amin%20Khan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Full%20Stack%20Engineer%20%7C%20SaaS%20%7C%20Healthcare%20Tech%20%7C%20AI-Augmented%20Systems&descAlignY=58&descAlign=50&descSize=16" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9B6DFF&center=true&vCenter=true&width=700&lines=Senior+Full+Stack+Engineer+%7C+5%2B+Years;Laravel+%7C+Next.js+%7C+React+Native+Specialist;Enterprise+SaaS+%26+Healthcare+Platform+Builder;AI-Augmented+Engineering+%7C+3x+Faster+Delivery;Multivendor+Marketplace+%26+RBAC+Architect" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=06b6d4&center=true&vCenter=true&width=700&lines=Senior+Full+Stack+Engineer+%7C+5%2B+Years;Laravel+%7C+Next.js+%7C+React+Native+Specialist;Enterprise+SaaS+%26+Healthcare+Platform+Builder;AI-Augmented+Engineering+%7C+3x+Faster+Delivery;Multivendor+Marketplace+%26+RBAC+Architect" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/BSc-Computer%20Science%20%26%20Engineering-6E40C9?style=for-the-badge&logo=graduation-cap&logoColor=white" />
-  <img src="https://img.shields.io/badge/United%20International%20University-Dhaka%2C%20Bangladesh-8B5CF6?style=for-the-badge&logo=university&logoColor=white" />
+  <img src="https://img.shields.io/badge/BSc-Computer%20Science%20%26%20Engineering-1e3a8a?style=for-the-badge&logo=graduation-cap&logoColor=white" />
+  <img src="https://img.shields.io/badge/United%20International%20University-Dhaka%2C%20Bangladesh-0369a1?style=for-the-badge&logo=university&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📍%20Mirpur%2C%20Dhaka%2C%20Bangladesh-Remote%20Open-6E40C9?style=flat-square" />
+  <img src="https://img.shields.io/badge/📍%20Mirpur%2C%20Dhaka%2C%20Bangladesh-Remote%20Open-1e3a8a?style=flat-square" />
 </p>
 
 <p align="center">
   <a href="https://your-portfolio.dev">
-    <img src="https://img.shields.io/badge/Portfolio-6E40C9?style=for-the-badge&logo=firefox-browser&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-1e3a8a?style=for-the-badge&logo=firefox-browser&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/al-amin-khan">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -33,9 +33,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=al-amin-khan&label=Profile%20Views&color=6E40C9&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/al-amin-khan?label=Followers&style=flat-square&color=8B5CF6" />
-  <img src="https://img.shields.io/github/stars/al-amin-khan?label=Total%20Stars&style=flat-square&color=7C3AED" />
+  <img src="https://komarev.com/ghpvc/?username=al-amin-khan&label=Profile%20Views&color=1e3a8a&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/al-amin-khan?label=Followers&style=flat-square&color=0369a1" />
+  <img src="https://img.shields.io/github/stars/al-amin-khan?label=Total%20Stars&style=flat-square&color=06b6d4" />
 </p>
 
 ---
@@ -58,6 +58,8 @@ Open To:
   - AI-integrated product engineering
   - Technical co-founder or Lead Engineer positions
 ```
+
+---
 
 ---
 
@@ -360,12 +362,12 @@ Full-stack engineer leading end-to-end development for multiple client projects 
 ## ◈ GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=al-amin-khan&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=9B6DFF&icon_color=9B6DFF&text_color=c9d1d9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=al-amin-khan&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=9B6DFF&text_color=c9d1d9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=al-amin-khan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=06b6d4&icon_color=0ea5e9&text_color=c9d1d9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=al-amin-khan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06b6d4&text_color=c9d1d9" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=al-amin-khan&theme=midnight-purple&hide_border=true&background=0D1117&ring=9B6DFF&fire=9B6DFF&currStreakLabel=9B6DFF" />
+  <img src="https://streak-stats.demolab.com?user=al-amin-khan&theme=dark&hide_border=true&background=0D1117&ring=06b6d4&fire=0ea5e9&currStreakLabel=0ea5e9" />
 </p>
 
 ---
@@ -381,7 +383,7 @@ Full-stack engineer leading end-to-end development for multiple client projects 
 ## ◈ Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=al-amin-khan&theme=github-compact&bg_color=0D1117&color=9B6DFF&line=6E40C9&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=al-amin-khan&theme=react-dark&bg_color=0D1117&color=06b6d4&line=1e3a8a&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
@@ -442,7 +444,7 @@ engineering_focus:
 </p>
 <p align="center">
   <a href="https://your-portfolio.dev">
-    <img src="https://img.shields.io/badge/Portfolio-your--portfolio.dev-6E40C9?style=for-the-badge&logo=firefox-browser&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-your--portfolio.dev-1e3a8a?style=for-the-badge&logo=firefox-browser&logoColor=white" />
   </a>
 </p>
 
@@ -453,5 +455,5 @@ engineering_focus:
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e3a8a&height=120&section=footer" />
 </p>
