@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e3a8a&height=200&section=header&text=Al-Amin%20Khan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Full%20Stack%20Engineer%20%7C%20SaaS%20%7C%20Healthcare%20Tech%20%7C%20AI-Augmented%20Systems&descAlignY=58&descAlign=50&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e3a8a&height=200&section=header&text=Al-Amin%20Khan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20SaaS%20%7C%20Healthcare%20Tech%20%7C%20AI-Augmented%20Systems&descAlignY=58&descAlign=50&descSize=16" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=06b6d4&center=true&vCenter=true&width=700&lines=Senior+Full+Stack+Engineer+%7C+5%2B+Years;Laravel+%7C+Next.js+%7C+React+Native+Specialist;Enterprise+SaaS+%26+Healthcare+Platform+Builder;AI-Augmented+Engineering+%7C+3x+Faster+Delivery;Multivendor+Marketplace+%26+RBAC+Architect" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=06b6d4&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer+%7C+5%2B+Years;Laravel+%7C+Next.js+%7C+React+Native+Specialist;Enterprise+SaaS+%26+Healthcare+Platform+Builder;AI-Augmented+Engineering+%7C+3x+Faster+Delivery;Multivendor+Marketplace+%26+RBAC+Architect" alt="Typing SVG" />
   </a>
 </p>
 
@@ -52,8 +52,8 @@ Operating with an <strong>AI-augmented engineering workflow</strong>, I deliver 
 
 ```yaml
 Open To:
-  - Senior Full Stack Engineering roles (Remote)
-  - Backend-heavy SaaS architecture contracts
+  - Full Stack Engineering roles (Remote)
+  - SaaS architecture contracts
   - Healthcare / HealthTech platform development
   - AI-integrated product engineering
   - Technical co-founder or Lead Engineer positions
@@ -418,7 +418,7 @@ engineering_focus:
     - WebAssembly for performance-critical frontend computation
 
   open_to:
-    - Senior / Lead Full Stack Engineer roles (remote-first)
+    - Full Stack Engineer roles (remote-first)
     - Healthcare technology and HealthTech platforms
     - Series A / Series B SaaS engineering teams
     - Technical co-founder conversations
