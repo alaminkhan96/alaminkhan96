@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e3a8a&height=200&section=header&text=Al-Amin%20Khan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20HIPAA-Compliant%20Healthcare%20%7C%20Enterprise%20SaaS%20%7C%20US%20Remote&descAlignY=58&descAlign=50&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e3a8a&height=200&section=header&text=Al-Amin%20Khan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20SaaS%20%7C%20Healthcare%20Tech%20%7C%20AI-Augmented%20Systems&descAlignY=58&descAlign=50&descSize=16" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=06b6d4&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Engineer+%7C+3%2B+Years+US+Remote;Next.js+%7C+Laravel+%7C+React+Native+Specialist;20%2B+Production+Apps+Shipped;HIPAA-Compliant+Platforms+%26+DICOM+Tools;Escrow+Systems+%7C+GIS+%7C+LLM-Integrated+Products" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=06b6d4&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer+%7C+5%2B+Years;Laravel+%7C+Next.js+%7C+React+Native+Specialist;Enterprise+SaaS+%26+Healthcare+Platform+Builder;AI-Augmented+Engineering+%7C+3x+Faster+Delivery;Multivendor+Marketplace+%26+RBAC+Architect" alt="Typing SVG" />
   </a>
 </p>
 
@@ -14,14 +14,14 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📍%20Dhaka%2C%20Bangladesh-Open%20to%20US%20Remote-1e3a8a?style=flat-square" />
+  <img src="https://img.shields.io/badge/📍%20Mirpur%2C%20Dhaka%2C%20Bangladesh-Remote%20Open-1e3a8a?style=flat-square" />
 </p>
 
 <p align="center">
-  <a href="https://dev-alamin.vercel.app">
+  <a href="https://your-portfolio.dev">
     <img src="https://img.shields.io/badge/Portfolio-1e3a8a?style=for-the-badge&logo=firefox-browser&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/alaminkhan96">
+  <a href="https://linkedin.com/in/alaminKhan96">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:i.alamink96@gmail.com">
@@ -34,6 +34,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alaminKhan96&label=Profile%20Views&color=1e3a8a&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/alaminKhan96?label=Followers&style=flat-square&color=06b6d4" />
+  <img src="https://img.shields.io/github/stars/alaminKhan96?label=Total%20Stars&style=flat-square&color=0284c7" />
 </p>
 
 ---
@@ -41,20 +43,20 @@
 ## ◈ About
 
 <p align="left">
-I'm a <strong>Full-Stack Software Engineer</strong> with <strong>3+ years</strong> of experience shipping production systems for US companies — <strong>20+ applications</strong> across healthcare, SaaS, EdTech, and e-commerce, built end-to-end from system design to CI/CD deployment.
+I am a <strong>Solution-driven Full-Stack Engineer</strong> with <strong>5+ years</strong> of experience architecting scalable web ecosystems — most recently specializing in <strong>Corporate SaaS</strong> and <strong>Healthcare Technology</strong>. My core strength lies in taking complex, raw product ideas and turning them into <strong>secure, production-ready platforms</strong> built for enterprise scale.
 
-My specialty is the kind of software most engineers never get to touch: <strong>browser-based DICOM medical imaging tools</strong>, <strong>HIPAA-compliant telemedicine platforms</strong>, <strong>escrow-backed financial systems</strong>, and <strong>GIS-powered location intelligence</strong>. I design with an enterprise-first mindset — RBAC hierarchies, security hardening (OWASP, 2FA), and load-tested reliability at every layer.
+I design systems with an <em>Enterprise-first</em> mindset. Whether implementing intricate RBAC hierarchies for corporate governance, engineering multivendor marketplace infrastructure, or integrating AI-powered features into patient-facing healthcare portals — I prioritize <strong>security, performance, and user experience</strong> at every layer of the stack.
 
-I integrate LLMs (Claude, Gemini via OpenRouter) into real products with structured outputs and full engineering ownership. I build technology that doesn't just work — it <strong>evolves with the business it serves</strong>.
+Operating with an <strong>AI-augmented engineering workflow</strong>, I deliver complex architectures 3× faster while maintaining rigorous standards through CI/CD pipelines and static analysis. I build technology that doesn't just work — it <strong>evolves with the business it serves</strong>.
 </p>
 
 ```yaml
 Open To:
-  - Full-Stack Engineering roles (Remote)
-  - Healthcare / HealthTech platform development
+  - Full Stack Engineering roles (Remote)
   - SaaS architecture contracts
-  - LLM-integrated product engineering
-  - Technical co-founder or Lead Engineer conversations
+  - Healthcare / HealthTech platform development
+  - AI-integrated product engineering
+  - Technical co-founder or Lead Engineer positions
 ```
 
 ---
@@ -91,28 +93,44 @@ Open To:
 
 ---
 
+## ◈ AI / ML Expertise
+
+<div align="center">
+
+| Domain | Proficiency | Details |
+|--------|-------------|---------|
+| AI-Augmented Engineering | ████████░░ Advanced | Integrated AI tooling into development workflows, achieving 3× delivery acceleration |
+| AI-Powered Product Features | ███████░░░ Proficient | Built AI prediction review systems and virtual try-on capabilities (VAI Master, DressE) |
+| Intelligent Automation | ███████░░░ Proficient | Automated PDF generation, email dispatch, financial workflows, and regression pipelines |
+| Prompt Engineering | ███████░░░ Proficient | Systematic prompt design for code generation, architecture planning, and documentation |
+| Chatbot & Agent Systems | █████░░░░░ Exploring | Interest-driven research into LLM agents and AI automation pipelines |
+| ML/Data Integration | █████░░░░░ Exploring | Real-time data visualization, analytics dashboards, and GIS/spatial query systems |
+
+</div>
+
+---
+
 ## ◈ Featured Projects
 
 <details>
-<summary><strong>🐾 Pet Connect — Animal Welfare Platform & Multivendor Marketplace (Co-Founder)</strong></summary>
+<summary><strong>🐾 Pet Connect — Community Animal Welfare Platform & Multivendor Marketplace</strong></summary>
 
 <br/>
 
-A full-scale, community-driven animal welfare and multivendor e-commerce platform I'm building as <strong>co-founder and sole engineer</strong> — architected across four surfaces: a modular Laravel API, an Expo/React Native mobile application, a Next.js admin and vendor portal, and a Next.js public marketing site. Designed from the ground up for production reliability, financial integrity, and community transparency.
+A full-scale, community-driven animal welfare and multivendor e-commerce platform engineered across four surfaces: a modular Laravel API, an Expo/React Native mobile application, a Next.js admin and vendor portal, and a Next.js public marketing site. Designed from the ground up for production reliability, financial integrity, and community transparency.
 
 | Attribute | Detail |
 |-----------|--------|
 | **Stack** | Laravel 13, Next.js 16, React Native (Expo), MySQL, Redis, Docker, Laravel Reverb |
-| **Scale** | 100+ API endpoints across 15 modular domains; 4-surface platform |
+| **Scale** | ~200 API endpoints across 15 modular domains; 4-surface platform |
 | **Performance** | k6 load-tested at 240 req/s sustained, 50 concurrent users, 0 errors; Redis analytics <100ms |
 | **Security** | 9 CVE patches, escrow-backed transactions, KYC verification, atomic operations |
 | **Impact** | 3 production-breaking bugs caught pre-launch; full English/Bangla i18n |
 | **Repository** | Private — available on request |
 
-- Engineered a trust-based escrow donation system: donor funds held in escrow → rescuer uploads proof → admin review → atomic fund release to public transparency ledgers, streamed live over WebSockets (Laravel Reverb).
-- Built GIS-powered location intelligence on MySQL 8.0 spatial indexes: vet locator matching user GPS to clinics within a 10 km radius, and a missing-pet radar pushing FCM notifications to nearby users.
-- Delivered full multivendor e-commerce end-to-end: vendor KYC onboarding, catalog management, order-splitting checkout, per-vendor commissions, dual earnings wallets, and seller analytics.
-- Dockerized the complete stack (nginx/PHP-FPM, MySQL, Redis, Reverb, queue/scheduler, Next.js apps) with an automated, restore-tested database backup pipeline.
+- Engineered full multivendor e-commerce end-to-end: vendor onboarding, catalog management, order-splitting checkout, per-vendor commissions, dual earnings wallets, and seller analytics.
+- Implemented escrow-backed donation and rescue system with public transparency ledgers and real-time donation ticker via WebSockets (Laravel Reverb).
+- Dockerized the complete stack (nginx/PHP-FPM, MySQL, Redis, Reverb, queue/scheduler, Next.js apps) with automated, restore-tested database backup pipeline.
 - Authored 12 technical reference documents covering PRD, architecture, security/RBAC, API reference, deployment runbook, and QA plan.
 
 </details>
@@ -120,114 +138,72 @@ A full-scale, community-driven animal welfare and multivendor e-commerce platfor
 ---
 
 <details>
-<summary><strong>🤖 JobHunter AI — LLM-Powered Job Discovery & Application CRM</strong></summary>
+<summary><strong>🏢 ALTrainer — Corporate Teaching LMS (B2B Enterprise Workforce Training)</strong></summary>
 
 <br/>
 
-An end-to-end AI job-hunting system I built from scratch — because the best proof of LLM integration skills is shipping a real AI product. Scrapes the job market, scores every listing against my CV with LLMs, and runs the entire application pipeline automatically.
+An enterprise-grade, modular Learning Management System designed for corporate workforce training. Architected and scaled from a legacy script into a custom B2B ecosystem with complex governance hierarchies, automated provisioning, and enterprise-hardened security.
 
 | Attribute | Detail |
 |-----------|--------|
-| **Stack** | Node.js, Puppeteer, OpenRouter LLMs, Telegram Bot API |
-| **Scale** | 20+ sources scraped in parallel (10 RSS/APIs + 10 Puppeteer scrapers); 900+ jobs per run |
-| **AI Pipeline** | CV upload (PDF/DOCX) → AI skill extraction → 0–100 job scoring → cold email generation |
-| **Automation** | Only 90+ scored matches delivered via Telegram, each with 3 auto-generated cover letter drafts |
-| **Impact** | Built-in application CRM with Day 3/7 follow-up reminders — discovery to offer, automated |
+| **Stack** | Laravel 10, MySQL, custom RBAC middleware |
+| **Scale** | Multi-tier B2B with Admin, Company Owner, Secondary Admin, Employee roles |
+| **Performance** | 60-day technical roadmap addressing architectural bottlenecks |
+| **Security** | 2FA flows, XSS sanitization, auth throttling, malicious file upload blocking |
+| **Impact** | Enterprise provisioning automation; CI/CD integration proposal for regression stability |
 | **Repository** | Private — available on request |
 
-- Engineered a multi-source scraper manager running RSS/API sources (Remotive, Remote OK, Himalayas, Arbeitnow) and Puppeteer scrapers (LinkedIn, Indeed, Freelancer) in parallel with dedup logic.
-- Designed structured-output LLM scoring: every job evaluated 0–100 against extracted CV skills via OpenRouter — high-signal matches only.
-- Automated personalized cold email generation in three formats (short/medium/full cover letter) per matched job.
+- Developed complex multi-role RBAC hierarchies with secure middleware and route-level access protection for corporate governance.
+- Built automated employee provisioning, course enrollment tracks, live event management, and a certificate generation pipeline.
+- Formulated a 60-day technical roadmap resolving architectural bottlenecks and proposing CI/CD integration for enterprise-grade stability.
 
 </details>
 
 ---
 
 <details>
-<summary><strong>🏥 VAI Healthcare Ecosystem — DICOM Imaging, AI Review & Telemedicine</strong></summary>
+<summary><strong>🏥 VAI Healthcare Ecosystem — Radiology & Patient Platform</strong></summary>
 
 <br/>
 
-A comprehensive Next.js healthcare ecosystem serving radiologists and patients — built as <strong>sole frontend architect across 12 production platforms</strong> at Vairadiology LLC (New York), including browser-based DICOM medical imaging tools and a HIPAA-compliant telemedicine portal.
+A comprehensive Next.js healthcare platform serving radiologists and patients across multiple specialized applications: a DICOM image annotation tool (VAI Annotator), an AI prediction review system (VAI Master), and a patient second-opinion portal (VAI Portal). Engineered with strict compliance standards and AI-integrated workflows.
 
 | Attribute | Detail |
 |-----------|--------|
-| **Stack** | Next.js, React, TypeScript, Tailwind CSS, Cornerstone.js, Konva.js, custom headless CMS |
-| **Scale** | 12 production platforms — annotation workstation, AI review system, telemedicine portal, corporate sites |
-| **Performance** | 95+ Lighthouse scores via SSR/SSG optimization; 35% bundle-size reduction |
-| **Security** | HIPAA-compliant JWT authentication, role-based access control, Stripe payments |
-| **Impact** | Fully in-browser DICOM tools — zero local software required for radiologists |
+| **Stack** | Next.js, React, TypeScript, Tailwind CSS, custom headless CMS |
+| **Scale** | Multi-application healthcare ecosystem across 4 platforms |
+| **Performance** | 95+ Lighthouse scores with SSR optimization; 35% bundle size reduction |
+| **Security** | Strict medical compliance standards; automated content workflows |
+| **Impact** | Non-technical team members empowered to manage medical content via custom CMS |
 | **Repository** | Private — NDA |
 
-- Built VAI Annotator (DICOM annotation workstation: multi-class segmentation, linear measurements, multi-planar visualization) and VAI Master (AI prediction review system where radiologists approve/reject ML findings) — both fully browser-based.
-- Shipped VAI Portal: dual-mode telemedicine with async second-opinion workflow plus real-time video consultations, Stripe payments, and automated scheduling.
-- Delivered Vital Quest 360, an offline-capable health-tracking PWA with vitals/nutrition/medication tracking, OTP + Google OAuth, and service workers.
-- Architected corporate platforms with custom headless CMS and LLM-optimized /llms.txt endpoints, enabling non-technical medical content management.
+- Built VAI Annotator for DICOM image annotation, VAI Master for AI prediction reviews, and VAI Portal for patient second opinions.
+- Architected VAI Radiology platform with custom CMS integration, maintaining strict compliance while enabling non-technical content management.
+- Created Vital Quest 360 health tracking React application with real-time data visualization and cross-device compatibility.
 
 </details>
 
 ---
 
 <details>
-<summary><strong>🏢 ALTrainer — Enterprise B2B Learning Management System</strong></summary>
+<summary><strong>🍸 Bronsons Bar — Event Beverage Booking & Quoting Platform</strong></summary>
 
 <br/>
 
-An enterprise-grade, modular LMS for corporate workforce training — architected from scratch, transforming a legacy script into a governed B2B SaaS platform with complex hierarchies, automated provisioning, and enterprise-hardened security.
+A freelance-delivered event booking platform featuring a multi-step quoting engine, automated PDF proposal generation, and email dispatch. Engineered for conversion optimization and operational efficiency.
 
 | Attribute | Detail |
 |-----------|--------|
-| **Stack** | Laravel 10 (nwidart/laravel-modules), MySQL, Spatie Permission |
-| **Scale** | 8 domain-separated modules; 4-tier RBAC (System Admin → Company Owner → Secondary Admin → Employee) |
-| **Automation** | Certificate pipeline (Dompdf) generating verifiable compliance PDFs on completion |
-| **Security** | 2FA, global XSS sanitization, auth throttling, MIME-validated uploads, Laravel Sanctum |
-| **Impact** | Enterprises self-provision employees and monitor training analytics without vendor support |
-| **Repository** | Private — available on request |
-
-- Designed a modular monolith with domain separation: Courses, Certificate Builder, Live Events, Customers, Orders, Badges, Page Builder.
-- Built blended learning architecture combining async content (video lessons, quizzes, resources) with live event management.
-- Authored a 60-day technical roadmap adopting CI/CD, static analysis (Larastan), and automated regression testing.
-
-</details>
-
----
-
-<details>
-<summary><strong>🍸 Bronsons Bar — Event Booking & Quoting Platform (Lighthouse 96 · 87% Coverage)</strong></summary>
-
-<br/>
-
-A booking and lead-generation platform for a US luxury event-service provider — engineered for conversion optimization, operational efficiency, and measurable quality.
-
-| Attribute | Detail |
-|-----------|--------|
-| **Stack** | React 18, TypeScript, Vite, Node.js/Express, Prisma ORM, Tailwind CSS, Shadcn UI |
-| **Quality** | Lighthouse 96/100/100 · 68KB bundle · 1.2s TTI · 87% test coverage (Vitest + Playwright + axe-core) |
-| **Engineering** | OpenAPI 3.0 + Swagger docs, Pino logging, Sentry error tracking, GitHub Actions CI, Storybook |
-| **Impact** | 40% drop-off reduction · 25% lead conversion increase · 15+ hrs/week of admin work automated |
+| **Stack** | React, TypeScript, Node.js, Express, Tailwind CSS, Shadcn UI |
+| **Scale** | 5-step booking journey tracking 20+ complex data points |
+| **Performance** | 95+ Google Lighthouse score; 40% reduction in user drop-off |
+| **Security** | Secure backend routing, form validation, third-party API integration |
+| **Impact** | 25% increase in lead conversion; 15+ hours/week of manual work automated |
 | **Repository** | Private — Client Project |
 
-- Built a real-time cost engine auto-calculating staffing ratios (1 bartender/80 guests), travel surcharges, and event pricing with full transparency.
-- Engineered automated PDF proposal generation and email dispatch pipeline (Nodemailer).
-
-</details>
-
----
-
-<details>
-<summary><strong>🔐 DocumentVault — Secure Offline Document Management App</strong></summary>
-
-<br/>
-
-A privacy-first React Native/Expo mobile app with 100% on-device storage and zero cloud dependency — built to prove that mobile security and native-feeling UX can coexist.
-
-| Attribute | Detail |
-|-----------|--------|
-| **Stack** | React Native, Expo, expo-secure-store, Expo Camera + Image Manipulator |
-| **Security** | AES-256 encryption on all files; PIN + biometric authentication (FaceID/fingerprint) |
-| **Features** | In-app document scanner, custom local file system, folder organization, watermarking |
-| **Engineering** | Native PDF rendering optimized for smooth scrolling on large encrypted files |
-| **Repository** | Private — available on request |
+- Developed interactive multi-step booking flow with real-time cost transparency using React Context API for seamless state management.
+- Engineered automated PDF proposal generation and email dispatch pipeline (Node.js/Express).
+- Built fully responsive, accessible UI achieving 95+ Lighthouse score and improving mobile engagement.
 
 </details>
 
@@ -238,12 +214,14 @@ A privacy-first React Native/Expo mobile app with 100% on-device storage and zer
 
 <br/>
 
-A full-featured ISP management platform serving 200+ cable operators across Bangladesh with automated billing, customer management, and service tracking — replacing a fully manual process.
+A full-featured ISP management application serving 200+ cable operators with automated billing, customer management, and service tracking.
 
 | Attribute | Detail |
 |-----------|--------|
 | **Stack** | Laravel, MySQL, PHP |
 | **Scale** | 200+ cable operators |
+| **Performance** | Automated billing and service tracking pipelines |
+| **Security** | Role-based access, secure customer data management |
 | **Impact** | Full lifecycle ownership from requirements to deployment |
 | **Repository** | Private — Client Project |
 
@@ -253,12 +231,12 @@ A full-featured ISP management platform serving 200+ cable operators across Bang
 
 ## ◈ Experience
 
-**Co-Founder & Lead Engineer** — GraphicCats
+**Software Engineer (Full-Stack)** — GraphicCats
 `Mar 2026 – Present` · Remote, Bangladesh
 
-Co-founded GraphicCats; sole engineer architecting Pet Connect — a 4-surface animal-welfare platform and multivendor marketplace (launching soon). Own the full stack from API design through mobile application, DevOps infrastructure, and public-facing marketing site.
+Engineered production-grade features across a 4-surface platform for a community-driven animal welfare ecosystem. Owned the full stack from API design through mobile application, DevOps infrastructure, and public-facing marketing site.
 
-- Architected 15-module Laravel modular monolith serving 100+ endpoints
+- Architected 15-module Laravel modular-monolith serving ~200 endpoints
 - Built full multivendor marketplace with escrow-backed financial flows
 - Led security hardening: 9 CVE patches, CI/CD across all repositories
 - Load-tested API to 240 req/s at zero errors with k6
@@ -278,7 +256,7 @@ Co-founded GraphicCats; sole engineer architecting Pet Connect — a 4-surface a
 
 Architected and scaled an enterprise corporate LMS from legacy scripts to a fully governed B2B SaaS platform. Owned the transition to a modular, secure, and auditable system designed for enterprise workforce compliance.
 
-- Designed 4-tier RBAC hierarchy with middleware-enforced route protection
+- Designed multi-role RBAC hierarchy with middleware-enforced route protection
 - Built automated employee provisioning and certificate generation pipeline
 - Formulated 60-day architectural roadmap for enterprise-grade stability
 - Implemented 2FA, XSS sanitization, auth throttling, and malicious upload prevention
@@ -290,15 +268,15 @@ Architected and scaled an enterprise corporate LMS from legacy scripts to a full
 
 ---
 
-**Software Engineer (Frontend)** — Vairadiology, LLC
+**Frontend Engineer** — Vairadiology, LLC
 `Jan 2024 – Sep 2025` · Remote, New York, USA
 
-Sole frontend architect across 12 production healthcare platforms serving radiologists, patients, and clinical staff. Delivered 95+ Lighthouse scores across all applications while maintaining strict medical compliance standards.
+Built a comprehensive Next.js healthcare ecosystem serving radiologists, patients, and clinical staff across four specialized platforms. Delivered 95+ Lighthouse scores across all applications while maintaining strict medical compliance standards.
 
 - Engineered VAI Annotator, VAI Master, and VAI Portal from design to deployment
 - Reduced bundle sizes by 35% through SSR/SSG strategies and code splitting
 - Architected custom headless CMS enabling non-technical medical content management
-- Trained and onboarded 2 incoming engineers with documented handover
+- Integrated AI/AR virtual try-on capabilities into DressE multivendor platform
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -330,18 +308,18 @@ Full-stack engineer leading end-to-end development for multiple client projects 
 
 | Recognition | Details |
 |-------------|---------|
+| 🚀 3× Delivery Acceleration | AI-augmented workflow delivering complex architectures 3× faster than baseline |
 | 🔒 Zero-Error Load Performance | k6 load test: 240 req/s sustained at 50 concurrent users, 0 errors |
-| 🏆 95+ Lighthouse Score | Consistent performance benchmarks across all frontend platforms |
 | 🛡️ Pre-Launch Bug Prevention | Money-path test suite caught 3 production-breaking bugs before launch |
 | ⚡ 35% Bundle Size Reduction | SSR/SSG optimization across all VAI Healthcare platforms |
 | 📈 40% Drop-off Reduction | Multi-step booking flow UX redesign for Bronsons Bar |
 | 💼 25% Lead Conversion Increase | Real-time cost transparency engine driving qualified leads |
 | 🕐 15+ Hours/Week Automated | PDF and email workflow automation eliminating manual admin overhead |
 | 🔧 9 CVEs Patched | Dependency vulnerability remediation across full platform stack |
+| 🏆 95+ Lighthouse Score | Consistent performance benchmarks across all frontend platforms |
 | 📋 12 Technical Documents | Authored full engineering documentation suite (PRD → deployment runbook) |
 | ♿ WCAG 2.1 Compliance | Accessibility-first implementation for public sector client |
 | 📊 50% Stability Improvement | Legacy codebase refactor resolving 15+ broken features |
-| 🎯 87% Test Coverage | Vitest + Playwright + axe-core suite on production client platform |
 
 </div>
 
@@ -354,9 +332,28 @@ Full-stack engineer leading end-to-end development for multiple client projects 
 | Degree | Institution | Location |
 |--------|-------------|----------|
 | **BSc. Computer Science & Engineering** | United International University | Dhaka, Bangladesh |
-| **Higher Secondary Certificate** | Mirpur Cantonment Public School & College | Dhaka, Bangladesh |
+| **Higher Secondary Certificate** | Mirpur Cantt. Public School & College | Dhaka, Bangladesh |
 
 </div>
+
+---
+
+## ◈ Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/alaminKhan96">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/alaminKhan96">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/alaminKhan96">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
+  </a>
+  <a href="https://www.codechef.com/users/alaminKhan96">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -369,6 +366,18 @@ Full-stack engineer leading end-to-end development for multiple client projects 
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=alaminKhan96&theme=blue-dark&hide_border=true&background=0D1117&ring=06b6d4&fire=06b6d4&currStreakLabel=06b6d4" />
+</p>
+
+---
+
+## ◈ GitHub Trophies
+
+<p align="center">
+
+| 🏆 Commits | ⭐ Stars | 🎯 Issues | 🔀 Pull Requests | 👥 Followers | 📦 Repositories |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| ![](https://img.shields.io/badge/Commits-101-06b6d4?style=for-the-badge) | ![](https://img.shields.io/badge/Stars-0-1e3a8a?style=for-the-badge) | ![](https://img.shields.io/badge/Issues-0-0284c7?style=for-the-badge) | ![](https://img.shields.io/badge/PRs-1-06b6d4?style=for-the-badge) | ![](https://img.shields.io/badge/Followers-growing-1e3a8a?style=for-the-badge) | ![](https://img.shields.io/badge/Repos-active-0284c7?style=for-the-badge) |
+
 </p>
 
 ---
@@ -393,25 +402,27 @@ Full-stack engineer leading end-to-end development for multiple client projects 
 
 ```yaml
 engineering_focus:
-  building:
-    - Pet Connect — production multivendor marketplace (Laravel 13 + React Native + Next.js)
-    - JobHunter AI — LLM-powered job discovery pipeline (OpenRouter, Puppeteer)
-    - Open-source Laravel + Next.js enterprise starter kit
-
   learning:
+    - Advanced AI agent architectures and LLM-powered automation pipelines
     - Distributed system design patterns for high-throughput SaaS platforms
     - Infrastructure as Code (Terraform, advanced Docker Compose orchestration)
-    - LLM agent architectures and structured-output automation pipelines
+
+  building:
+    - Production-grade multivendor marketplace platform (Pet Connect)
+    - AI-integrated developer tooling for workflow acceleration
+    - Open-source Laravel + Next.js enterprise starter kit
 
   exploring:
+    - LLM fine-tuning for domain-specific healthcare and legal applications
     - Edge computing and serverless architectures for global SaaS delivery
     - WebAssembly for performance-critical frontend computation
 
   open_to:
-    - Full-Stack Engineer roles (remote-first)
+    - Full Stack Engineer roles (remote-first)
     - Healthcare technology and HealthTech platforms
     - Series A / Series B SaaS engineering teams
     - Technical co-founder conversations
+    - AI-first product engineering contracts
 ```
 
 ---
@@ -424,7 +435,7 @@ engineering_focus:
   </a>
 </p>
 <p align="center">
-  <a href="https://linkedin.com/in/alaminkhan96">
+  <a href="https://linkedin.com/in/alaminKhan96">
     <img src="https://img.shields.io/badge/LinkedIn-Al--Amin%20Khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -434,9 +445,12 @@ engineering_focus:
   </a>
 </p>
 <p align="center">
-  <a href="https://dev-alamin.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-dev--alamin.vercel.app-1e3a8a?style=for-the-badge&logo=firefox-browser&logoColor=white" />
+  <a href="https://your-portfolio.dev">
+    <img src="https://img.shields.io/badge/Portfolio-your--portfolio.dev-1e3a8a?style=for-the-badge&logo=firefox-browser&logoColor=white" />
   </a>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
 
 ---
